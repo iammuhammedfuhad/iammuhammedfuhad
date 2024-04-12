@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fuhad Kalathingal
 
-I'm a self-taught programmer and a certified junior ethical hacker with a burning desire. Currently, Iam working on a project called "PhishGuard" - A cyber awareness game.
+I'm a self-taught competitive programmer, who has a passion for solving difficult coding problems.
 
 🌟 Let's connect and collaborate on exciting projects to make a positive impact in the tech community!
 
